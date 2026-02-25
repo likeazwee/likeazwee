@@ -1,7 +1,7 @@
 # 💫 About Me:
 💡 Sharing my journey in the world of computer science</br>
 🎓 Studied at Computer Science at the Bengkulu University</br>
-👨‍💻 Interested in Frontend, Backend, and Artificial Intelligence</br>
+👨‍💻 Interested in Artificial Intelligence</br>
 
 
 ## 🌐 Socials:
